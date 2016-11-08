@@ -25,3 +25,7 @@ footer {
     clear: both;
     text-align: right;
 }
+
+a.active {
+    font-style: italic;
+}
