@@ -1,0 +1,27 @@
+html {
+    margin:0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    float: left;
+    width: 10em;
+}
+
+main {
+    margin: 1em 10em 1em 10em;
+}
+
+aside {
+    width: 10em;
+    float:right;
+}
+
+footer {
+    clear: both;
+    text-align: right;
+}
